@@ -1,0 +1,53 @@
+# Nadin Amizah – Bertaut
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:21.38] Bun, hidup berjalan seperti bajingan
+[00:31.80] Seperti landak yang tak punya teman
+[00:49.30] 
+[00:42.44] Ia menggonggong bak suara hujan
+[00:52.50] Dan kau pangeranku, mengambil peran
+[01:10.00] 
+[01:04.07] Bun, kalau saat hancur ku disayang
+[01:14.27] Apalagi saat ku jadi juara
+[01:25.07] Saat tak tahu arah kau di sana
+[01:35.87] Menjadi gagah saat ku tak bisa
+[01:50.87] 
+[01:46.03] Sedikit kujelaskan tentangku dan kamu
+[01:51.60] Agar seisi dunia tahu
+[02:02.10] 
+[01:57.13] Keras kepalaku sama denganmu
+[02:02.30] Caraku marah, caraku tersenyum
+[02:07.72] Seperti detak jantung yang bertaut
+[02:13.03] Nyawaku nyala karena denganmu
+[02:27.53] 
+[02:18.35] Aku masih ada sampai di sini
+[02:23.75] Melihatmu kuat setengah mati
+[02:29.11] Seperti detak jantung yang bertaut
+[02:34.36] Nyawaku nyala karena denganmu
+[02:48.86] 
+[02:50.78] Bun, aku masih tak mengerti banyak hal
+[03:01.16] Semuanya berenang di kepala
+[03:14.66] 
+[03:11.69] Dan kau dan semua yang kau tahu tentangnya
+[03:22.57] Menjadi jawab saat ku bertanya
+[03:37.57] 
+[03:32.75] Sedikit kujelaskan tentangku dan kamu
+[03:38.48] Agar seisi dunia tahu
+[03:48.98] 
+[03:43.74] Keras kepalaku sama denganmu
+[03:48.92] Caraku marah, caraku tersenyum
+[03:54.42] Seperti detak jantung yang bertaut
+[03:59.78] Nyawaku nyala karena denganmu
+[04:14.28] 
+[04:05.17] Aku masih ada sampai di sini
+[04:10.34] Melihatmu kuat setengah mati
+[04:15.76] Seperti detak jantung yang bertaut
+[04:21.15] Nyawaku nyala karena denganmu
+[04:35.65] 
+[04:26.44] Semoga lama hidupmu di sini
+[04:31.61] Melihatku berjuang sampai akhir
+[04:37.16] Seperti detak jantung yang bertaut
+[04:42.42] Nyawaku nyala karena denganmu
+```
