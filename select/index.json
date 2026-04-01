@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "base_track": "Bertaut",
+  "base_artist": "Nadin Amizah",
+  "createdAt": "2026-04-01T13:24:34.338076Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bertaut",
+      "artist": "Nadin Amizah",
+      "has_synced": true,
+      "path": "select/01_Bertaut_Nadin_Amizah.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bertaut",
+      "artist": "Nadin Amizah",
+      "has_synced": true,
+      "path": "select/02_Bertaut_Nadin_Amizah.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bertaut",
+      "artist": "Nadin Amizah",
+      "has_synced": true,
+      "path": "select/03_Bertaut_Nadin_Amizah.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bertaut Cinta",
+      "artist": "Alvi",
+      "has_synced": false,
+      "path": "select/04_Bertaut_Cinta_Alvi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bertaut",
+      "artist": "Nadin Amizah",
+      "has_synced": false,
+      "path": "select/pl_01_Bertaut_Nadin_Amizah.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Bertaut",
+      "artist": "Nadin Amizah",
+      "has_synced": true,
+      "path": "select/localdb_01_Bertaut_Nadin_Amizah.lrc",
+      "repo_name": "HyhLsy6b0XI"
+    }
+  ]
+}
